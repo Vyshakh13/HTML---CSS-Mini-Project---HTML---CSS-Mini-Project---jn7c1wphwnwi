@@ -1,1 +1,1 @@
-# html-css-project-boilerplate
+This project is regarding an online food delivery website.
