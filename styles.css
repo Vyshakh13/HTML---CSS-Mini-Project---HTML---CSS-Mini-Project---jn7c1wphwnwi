@@ -1,1 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.header {
+    background-color: green;
+    top: 0;
+    width: 100%;
+    position: fixed;
+}
+
+.item-name{
+    font-weight:100;
+    cursor: pointer;
+    color: darkblue;
+    font-size: larger;
+}
+
+.picture{
+    cursor: pointer;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+}
+
+html{
+    scroll-behavior:smooth;
+    scroll-margin:10% ;
+}
+.brand {
+            float: left;
+            width: 40%;
+            text-align: center;
+            line-height: 70px;
+            height: 70px;
+            cursor: pointer;
+}
+
+
+#brandtitle {
+    color: navy;
+    padding-bottom: 30px; 
+}
+
+.menus  {
+            
+            width: 60%;
+            height: 70px;
+            line-height: 70px;
+            display: inline-block;
+            text-decoration: none;
+        }
+
+
+
+a {
+    text-decoration: none;
+    list-style: none;
+    padding: 25px;
+    font: 1em sans-serif;
+    line-height: 70px;
+    
+}
+
+.menus a:hover {
+            
+    text-decoration: none;
+    padding: 14px 25px;
+    color: blue;
+    background-color: chartreuse;
+    font-weight: bold;
+    }
+
+.heading {
+            padding-top: 90px;
+        }       
+
+
+#first {
+            color:gold;
+            font-style: normal;
+}
+
+#second {
+    color:aqua;
+    font-style: normal;
+}
+
+.item {
+    background-color: lightseagreen;
+    width: 500px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 50%;
+    margin: 20px auto;
+    cursor: pointer;
+}
+
+.item:hover{
+    background-color: olive;
+}
+
+p {
+    font-size: large;
+    color:black;
+    font-weight:normal;
+    }
+
+.footer  {
+            background-color: darkmagenta;
+            padding-top: 0;
+            text-align: center;
+        }
+
+        
+#bottom{
+            padding-bottom: 30px;
+}
+
+.main {
+            background-color:red;
+        
+    }
+
+
+
+table {
+            width: 100%;
+            margin: 20px auto;
+        }
+
+
+.fa-facebook {
+            color: white;
+            cursor: pointer;
+        }
+
+.fa-twitter {
+            color: white;
+            cursor: pointer;
+        }
+
+.fa-instagram {
+            color: white;
+            cursor: pointer;
+        }
+
+.fa-linkedin {
+            color: white;
+            cursor: pointer;
+        }
+
+
+
+
+        
+        
 
